@@ -15,22 +15,22 @@ ADDED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/Andro
 		INJECTED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.segway.robot:robot-connectivity-sdk:0.5.88] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/robot-connectivity-sdk/0.5.88/AndroidManifest.xml:11:5-67
+MERGED from [com.segway.robot:robot-connectivity-sdk:0.5.91] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/robot-connectivity-sdk/0.5.91/AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml:6:5-79
-MERGED from [com.segway.robot:robot-connectivity-sdk:0.5.88] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/robot-connectivity-sdk/0.5.88/AndroidManifest.xml:12:5-79
+MERGED from [com.segway.robot:robot-connectivity-sdk:0.5.91] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/robot-connectivity-sdk/0.5.91/AndroidManifest.xml:12:5-79
 	android:name
 		ADDED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml:7:5-76
-MERGED from [com.segway.robot:robot-connectivity-sdk:0.5.88] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/robot-connectivity-sdk/0.5.88/AndroidManifest.xml:13:5-76
+MERGED from [com.segway.robot:robot-connectivity-sdk:0.5.91] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/robot-connectivity-sdk/0.5.91/AndroidManifest.xml:13:5-76
 	android:name
 		ADDED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml:7:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
 ADDED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml:8:5-76
-MERGED from [com.segway.robot:robot-connectivity-sdk:0.5.88] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/robot-connectivity-sdk/0.5.88/AndroidManifest.xml:14:5-76
+MERGED from [com.segway.robot:robot-connectivity-sdk:0.5.91] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/robot-connectivity-sdk/0.5.91/AndroidManifest.xml:14:5-76
 	android:name
 		ADDED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml:8:22-73
 application
@@ -67,9 +67,9 @@ ADDED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/Andro
 		ADDED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml:25:13-38
 uses-sdk
 INJECTED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.segway.robot:robot-connectivity-sdk:0.5.88] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/robot-connectivity-sdk/0.5.88/AndroidManifest.xml:7:5-9:41
-MERGED from [com.segway.robot:base-connectivity-sdk:0.5.88] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/base-connectivity-sdk/0.5.88/AndroidManifest.xml:7:5-9:41
-MERGED from [com.segway.robot:sdkbase:0.1.43] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/sdkbase/0.1.43/AndroidManifest.xml:7:5-9:41
+MERGED from [com.segway.robot:robot-connectivity-sdk:0.5.91] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/robot-connectivity-sdk/0.5.91/AndroidManifest.xml:7:5-9:41
+MERGED from [com.segway.robot:base-connectivity-sdk:0.5.91] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/base-connectivity-sdk/0.5.91/AndroidManifest.xml:7:5-9:41
+MERGED from [com.segway.robot:sdkbase:0.1.48] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/sdkbase/0.1.48/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		INJECTED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml
 		INJECTED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml
@@ -77,11 +77,11 @@ MERGED from [com.segway.robot:sdkbase:0.1.43] /Users/jacob/Desktop/zipFiles/Conn
 		INJECTED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml
 		INJECTED from /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/src/main/AndroidManifest.xml
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [com.segway.robot:base-connectivity-sdk:0.5.88] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/base-connectivity-sdk/0.5.88/AndroidManifest.xml:11:5-80
+ADDED from [com.segway.robot:base-connectivity-sdk:0.5.91] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/base-connectivity-sdk/0.5.91/AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from [com.segway.robot:base-connectivity-sdk:0.5.88] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/base-connectivity-sdk/0.5.88/AndroidManifest.xml:11:22-77
+		ADDED from [com.segway.robot:base-connectivity-sdk:0.5.91] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/base-connectivity-sdk/0.5.91/AndroidManifest.xml:11:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [com.segway.robot:base-connectivity-sdk:0.5.88] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/base-connectivity-sdk/0.5.88/AndroidManifest.xml:12:5-81
-MERGED from [com.segway.robot:sdkbase:0.1.43] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/sdkbase/0.1.43/AndroidManifest.xml:11:5-81
+ADDED from [com.segway.robot:base-connectivity-sdk:0.5.91] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/base-connectivity-sdk/0.5.91/AndroidManifest.xml:12:5-81
+MERGED from [com.segway.robot:sdkbase:0.1.48] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/sdkbase/0.1.48/AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from [com.segway.robot:base-connectivity-sdk:0.5.88] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/base-connectivity-sdk/0.5.88/AndroidManifest.xml:12:22-78
+		ADDED from [com.segway.robot:base-connectivity-sdk:0.5.91] /Users/jacob/Desktop/zipFiles/ConnectivitySample_Robot/build/intermediates/exploded-aar/com.segway.robot/base-connectivity-sdk/0.5.91/AndroidManifest.xml:12:22-78
